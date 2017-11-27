@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+.content {
+    width: 1280px;
+    height: 720px;
+    margin: auto;
+}
+
+.whiteBoard {
+    width: 666px;
+    height: 720px;
+    background: white;
+    box-shadow: 5px 0px 4px rgba(0,0,0, 0.1);
+}
